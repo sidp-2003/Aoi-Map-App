@@ -48,5 +48,5 @@ Reasons:
 - Basic README and config files
 
 ## Time spent
-Approximate: 2–3 hours to scaffold a minimal working demo and tests.
+Approximate: 10-11 hours to scaffold a minimal working demo and tests.
 
