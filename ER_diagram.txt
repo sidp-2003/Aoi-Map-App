@@ -1,0 +1,10 @@
+Simple schema overview (client-only app):
+- No backend in this demo.
+- If persisted, we would store AOI features:
+  AOI {
+    id: string (uuid)
+    name: string
+    createdAt: ISOString
+    geojson: GeoJSON FeatureCollection
+    meta: { user: string, tags: string[] }
+  }
